@@ -1,0 +1,14 @@
+nav, main, footer, section, aside, article {
+  border: red 2px solid;
+  margin: 1rem;
+  padding: .7rem;
+}
+
+main {
+  display: flex;
+}
+
+
+aside {
+  width: 30%;
+}
